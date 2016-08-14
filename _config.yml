@@ -6,7 +6,9 @@ title: Eventos Pokémon Go Cali
 event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+   Pokemon Go Cali no es responsable de cualquier hecho inesperado que ocurra en el encuentro
+   (Solo nos encargamos de Divulgar y promover los lugares y fechas de encuentro que los fans de la página proponen.)
+   Comparte La información a quienes interese.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eventos.pokemongocali.com" # the base hostname & protocol for your site

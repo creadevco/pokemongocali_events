@@ -1,12 +1,12 @@
-David Boyne:
-    name: David Boyne
-    email: "david.boyne@test.com"
+roadev:
+    name: Pokémon Go Cali
+    email: "info@creadev.co"
     photo: "https://pbs.twimg.com/profile_images/660943257795457030/igA_joVD.jpg"
 
-Jimmy Smith:
-    name: Jimmy Smith
+vastagord:
+    name: Felipe Monsalve
     email: "jimmy.smith@test.com"
-    photo: "https://randomuser.me/api/portraits/men/92.jpg"
+    photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xlt1/v/t1.0-1/c115.307.345.345/s160x160/13718509_878802258919288_3312578588962377934_n.jpg?oh=4ef29b87f06d2efecdf579898755239c&oe=585D7AAB&__gda__=1481676055_a7fb4909804e78494e6e73afd72bbaf1"
 
 Frank Smith:
     name: Frank Smith
@@ -18,4 +18,3 @@ Laura Frank:
     name: Laura Frank
     email: "laura.frank@test.com"
     photo: "https://randomuser.me/api/portraits/women/0.jpg"
-
